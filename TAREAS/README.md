@@ -5,7 +5,7 @@ IN the following folder, you will find the respective links to our repository in
 ## Link to Overleaf.
 
 * Barajas Cervantes Alfonso   
-	* https://www.overleaf.com/read/sptkknqnsyrv
+	* https://www.overleaf.com/
 * Cabello Figueroa Israel           
 * Cerritos Lira Carlos                
 * Franco López Benito Vicente    
