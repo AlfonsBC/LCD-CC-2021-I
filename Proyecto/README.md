@@ -3,5 +3,6 @@ In graph theory, graph coloring is a special case of graph labeling; it is an as
 ![alt text](https://i.imgur.com/2ZoDNQw.png)  
 
 # Documentation 
-- Parallel.py: Parallel implementation  
-- Sequential.py: Sequential implementation 
+- Parallel.py: Parallel implementation.  
+- Sequential.py: Sequential implementation.  
+- CC_2021_1_Proyecto_Evolutionary_Algorithms.pdf: Paper about how we solve the problem using genetic algorithm.  
